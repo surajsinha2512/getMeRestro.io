@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/getMeRestro.io/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/getMeRestro.io/static/js/main.e516df56.chunk.js",
+    "main.js.map": "/getMeRestro.io/static/js/main.e516df56.chunk.js.map",
+    "runtime-main.js": "/getMeRestro.io/static/js/runtime-main.3bb2a0d0.js",
+    "runtime-main.js.map": "/getMeRestro.io/static/js/runtime-main.3bb2a0d0.js.map",
+    "static/css/2.150d169a.chunk.css": "/getMeRestro.io/static/css/2.150d169a.chunk.css",
+    "static/js/2.b598003c.chunk.js": "/getMeRestro.io/static/js/2.b598003c.chunk.js",
+    "static/js/2.b598003c.chunk.js.map": "/getMeRestro.io/static/js/2.b598003c.chunk.js.map",
+    "static/js/3.01375893.chunk.js": "/getMeRestro.io/static/js/3.01375893.chunk.js",
+    "static/js/3.01375893.chunk.js.map": "/getMeRestro.io/static/js/3.01375893.chunk.js.map",
+    "index.html": "/getMeRestro.io/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/getMeRestro.io/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.8c8b27cf.chunk.css.map": "/getMeRestro.io/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.b598003c.chunk.js.LICENSE.txt": "/getMeRestro.io/static/js/2.b598003c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3bb2a0d0.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.b598003c.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.e516df56.chunk.js"
+  ]
+}
